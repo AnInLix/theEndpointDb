@@ -1,0 +1,124 @@
+{
+	"buttons": [
+						    {
+								"slideTo": "0",
+								"hasClass": true,
+								"label": "Slide 1",
+								"isCurrent": true
+							},
+							{
+								"slideTo": "1",
+								"hasClass": false,
+								"label": "Slide 2",
+								"isCurrent": false
+							},
+							{
+								"slideTo": "2",
+								"hasClass": false,
+								"label": "Slide 3",
+								"isCurrent": false
+							},
+							{
+								"slideTo": "3",
+								"hasClass": false,
+								"label": "Slide 4",
+								"isCurrent": false
+							}
+						],
+	"slides": [
+							{
+								"active": true,
+								"heading": "Education",
+								"content": "A self-taught ultra-learner",
+								"view": "Learn More"
+							},
+							{
+								"active": false,
+								"heading": "Afterlife",
+								"content": "Had a false start. Reinvented himself",
+								"view": "Learn More"
+							},
+							{
+								"active": false,
+								"heading": "In the end",
+								"content": "A proud member of a thriving community",
+								"view": "Learn More"
+							},
+							{
+								"active": false,
+								"heading": "Humanity",
+								"content": "Advanced research in GP significantly",
+								"view": "Learn More"
+							}
+						],
+	"profiles": [
+		{
+			"title": "Citizen",
+			"text": "140x140",
+			"heading": "Citizen Anthony",
+			"content":
+				"A very dedicated citizen. A member of the leadership experience",
+			"hintredirect": "view details"
+		},
+		{
+			"title": "Human Being",
+			"text": "140x140",
+			"heading": "Anthony Oduor",
+			"content": "Hoping to leave an overall positive impact on this world",
+			"hintredirect": "view details"
+		},
+		{
+			"title": "As a Friend",
+			"text": "140x140",
+			"heading": "Toni",
+			"content": "Crazy guy to be around",
+			"hintredirect": "view details"
+		},
+		{
+			"title": "Guy",
+			"text": "140x140",
+			"heading": "Anthony",
+			"content": "Zero idea on what it entails. Make it up as we go",
+			"hintredirect": "view details"
+		},
+		{
+			"title": "Globalist",
+			"text": "140x140",
+			"heading": "Lixir",
+			"content":
+				"To become a global ambassador of genetic programming as a solution to human problems",
+			"hintredirect": "view details"
+		},
+		{
+			"title": "Business",
+			"text": "140x140",
+			"heading": "Lixir.inc",
+			"content":
+				"To provide the umbrella body that overall satisfies its customer",
+			"hintredirect": "view details"
+		}
+	  ],
+   "cartegories": [
+   	  		{
+   	  			"mainHeading": "Lixir",
+   	  			"attention": "You are about to be amazed",
+   	  			"lead": "Brought to you courtesy of Lixir.inc",
+   	  			"title": "Anthony Oduor",
+   	  			"text": "500x500"
+   	  		},
+   	  		{
+   	  			"mainHeading": "Another Cool One",
+   	  			"attention": "It will literary blow your ...",
+   	  			"lead": "Hello there, this is an excellent site from lixir.inc",
+   	  			"title": "Coolness Redifined",
+   	  			"text": "500x500"
+   	  		},
+   	  		{
+   	  			"mainHeading": "A shout out",
+   	  			"attention": "To everyone that made this knowledge possible",
+   	  			"lead": "I have had a great time even though at times I sounded crazy with my dreams. I am finally able to scream",
+   	  			"title": "I Made It",
+   	  			"text": "500x500"
+   	  		}
+   	  	]	  
+}
